@@ -1,0 +1,55 @@
+﻿<Window x:Class="TaskManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaskManager"
+        mc:Ignorable="d"
+        Title="Task Manager" Height="450" Width="800">
+	<Grid>
+		<Button Click="ButtonClick" Content="Снять задачу" Margin="0,0,29,26" VerticalAlignment="Bottom" Height="28" HorizontalAlignment="Right" Width="121"/>
+		<!--<DataGrid Name="firstTask" Margin="0,49,0,122"></DataGrid>-->
+		<Menu FontSize="12" VerticalAlignment="Top" Background="#FFECECEE">
+			<MenuItem Header="File">
+				<MenuItem Header="New Task" ></MenuItem>
+				<Separator />
+				<MenuItem Header="Exit" Click="MenuItemClick"></MenuItem>
+			</MenuItem>
+			<MenuItem Header="Options" ></MenuItem>
+			<MenuItem Header="View" ></MenuItem>
+		</Menu>
+		<TabControl Margin="0,49,0,89">
+			<TabItem Header="Processes">
+				<TabItem.Content>
+					<DataGrid Name="processTask" AutoGenerateColumns="False">
+						<DataGrid.Columns>
+							<DataGridTextColumn Header="Application" Binding="{Binding Path=ApplicationName}"/>
+							<DataGridTextColumn Header="State" Binding="{Binding Path=State}"/>
+							<DataGridTextColumn Header="CPU" Binding="{Binding Path=CPU}"/>
+							<DataGridTextColumn Header="RAM" Binding="{Binding Path=RAM}"/>
+							<DataGridTextColumn Header="Disk Speed" Binding="{Binding Path=DiskSpeed}"/>
+							<DataGridTextColumn Header="Net Speed" Binding="{Binding Path=NetSpeed}"/>
+							<DataGridTextColumn Header="GPU" Binding="{Binding Path=GPU}"/>
+							<DataGridTextColumn Header="Kernel 3D" Binding="{Binding Path=Kernel3D}"/>
+						</DataGrid.Columns>
+					</DataGrid>
+				</TabItem.Content>
+			</TabItem>
+			<TabItem Header="Perfomance">
+				<Grid Background="#FFE5E5E5"/>
+			</TabItem>
+			<TabItem Header="App history">
+				<Grid Background="#FFE5E5E5"/>
+			</TabItem>
+			<TabItem Header="Startup">
+				<Grid Background="#FFE5E5E5"/>
+			</TabItem>
+			<TabItem Header="Users">
+				<Grid Background="#FFE5E5E5"/>
+			</TabItem>
+			<TabItem Header="Details">
+				<Grid Background="#FFE5E5E5"/>
+			</TabItem>
+		</TabControl>
+	</Grid>
+</Window>

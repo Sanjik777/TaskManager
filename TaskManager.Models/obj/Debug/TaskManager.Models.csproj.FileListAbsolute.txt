@@ -1,0 +1,18 @@
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager.Models\bin\Debug\TaskManager.Models.dll
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager.Models\bin\Debug\TaskManager.Models.pdb
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.csprojAssemblyReference.cache
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.dll
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.pdb
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager.Models\bin\Debug\TaskManager.Models.dll
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager.Models\bin\Debug\TaskManager.Models.pdb
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.csproj.CoreCompileInputs.cache
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.dll
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.pdb
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager.Models\bin\Debug\TaskManager.Models.dll
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager.Models\bin\Debug\TaskManager.Models.pdb
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.csprojAssemblyReference.cache
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.dll
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.pdb

@@ -1,0 +1,110 @@
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\App.g.cs
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\bin\Debug\MaterialDesignColors.dll
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\App.baml
+C:\Users\бейсеевс.CORP\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\obj\Debug\App.g.cs
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\bin\Debug\MaterialDesignColors.dll
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\bin\Debug\TaskManager.Models.dll
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\bin\Debug\TaskManager.Models.pdb
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\obj\Debug\App.baml
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+D:\Documents\ШАГ\net programing\1_Process+homework\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\MaterialDesignColors.dll
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.Models.dll
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.Models.pdb
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\App.g.cs
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\App.baml
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\бейсеевс.CORP\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\MaterialDesignColors.dll
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.Models.dll
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.Models.pdb
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\App.g.cs
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\App.baml
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\bin\Debug\MaterialDesignColors.dll
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.Models.dll
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.Models.pdb
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\obj\Debug\App.g.cs
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\obj\Debug\App.baml
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Санжар\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
